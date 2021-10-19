@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'lyc.github.io'
+AUTHOR = 'you-changlin'
 SITENAME = 'lyc blog'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
